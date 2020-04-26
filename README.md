@@ -14,8 +14,8 @@ define('DB_HOST','localhost');
 define('DB_NAME','pizza_delivery');
 ```
 
-3. Create ```/frontend/``` folder in your document root near ```/api/``` existing folder and place your [bundled frontend](https://github.com/jfxteam/ca-pizza-delivery/blob/master/README.md) in it
+3. Import ```pizza_delivery.sql``` to your database
 
-4. Import ```pizza_delivery.sql``` to your database
+4. Create manually ```/frontend/``` folder in your document root near ```/api/``` existing folder and place your frontend in it or build your frontend [automatically](https://github.com/jfxteam/ca-pizza-delivery/blob/master/README.md)
 
 5. Run your server!
